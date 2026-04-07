@@ -1,0 +1,60 @@
+{
+  "id": "wpt",
+  "title": "WPT — Verbal",
+  "sub": "Word Problem Test",
+  "icon": "📝",
+  "color": "#34c759",
+  "dur": 420,
+  "qs": [
+    {
+      "q": "Sinonim dari 'abstrak' adalah...",
+      "opts": ["Nyata", "Konkret", "Tidak berwujud", "Jelas"],
+      "ans": 2
+    },
+    {
+      "q": "Antonim dari 'identik' adalah...",
+      "opts": ["Sama", "Berbeda", "Serupa", "Mirip"],
+      "ans": 1
+    },
+    {
+      "q": "Kucing : Mamalia = Elang : ?",
+      "opts": ["Hewan", "Burung", "Vertebrata", "Reptil"],
+      "ans": 1
+    },
+    {
+      "q": "Mana yang BUKAN sinonim 'cepat'?",
+      "opts": ["Sigap", "Gesit", "Lambat", "Tangkas"],
+      "ans": 2
+    },
+    {
+      "q": "Buku : Perpustakaan = Lukisan : ?",
+      "opts": ["Kanvas", "Galeri", "Cat", "Museum"],
+      "ans": 1
+    },
+    {
+      "q": "Sinonim dari 'apatis' adalah...",
+      "opts": ["Peduli", "Semangat", "Acuh", "Aktif"],
+      "ans": 2
+    },
+    {
+      "q": "Antonim dari 'konvergen' adalah...",
+      "opts": ["Menyatu", "Divergen", "Paralel", "Linier"],
+      "ans": 1
+    },
+    {
+      "q": "Panas : Api = Dingin : ?",
+      "opts": ["Angin", "Es", "Malam", "Air"],
+      "ans": 1
+    },
+    {
+      "q": "Mana kata yang paling berbeda makna?",
+      "opts": ["Gembira", "Senang", "Bahagia", "Sedih"],
+      "ans": 3
+    },
+    {
+      "q": "Sinonim dari 'eksplisit' adalah...",
+      "opts": ["Tersirat", "Ambigu", "Tegas", "Samar"],
+      "ans": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "logika",
+  "title": "Logika",
+  "sub": "Logical Reasoning",
+  "icon": "🧩",
+  "color": "#af52de",
+  "dur": 360,
+  "qs": [
+    {
+      "q": "Semua A adalah B. Semua B adalah C. Kesimpulan yang benar...",
+      "opts": ["Semua C adalah A", "Semua A adalah C", "Sebagian A adalah C", "Tidak dapat disimpulkan"],
+      "ans": 1
+    },
+    {
+      "q": "Jika hari ini Senin, maka 100 hari lagi hari apa?",
+      "opts": ["Rabu", "Kamis", "Jumat", "Sabtu"],
+      "ans": 1
+    },
+    {
+      "q": "Tidak ada X yang Y. Semua Z adalah Y. Maka...",
+      "opts": ["Semua Z adalah X", "Tidak ada Z yang X", "Sebagian Z adalah X", "Semua X adalah Z"],
+      "ans": 1
+    },
+    {
+      "q": "Angka yang berbeda pola: 4, 9, 16, 25, 35, 49",
+      "opts": ["25", "16", "35", "49"],
+      "ans": 2
+    },
+    {
+      "q": "5 mesin buat 5 baut dalam 5 menit. 100 mesin buat 100 baut dalam berapa menit?",
+      "opts": ["100", "20", "10", "5"],
+      "ans": 3
+    },
+    {
+      "q": "Ana > Budi (tinggi). Cici < Dodi. Dodi < Budi. Siapa yang paling tinggi?",
+      "opts": ["Ana", "Budi", "Cici", "Dodi"],
+      "ans": 0
+    },
+    {
+      "q": "Botol 3/4 penuh. Diambil 250ml, sisa 1/2. Kapasitas botol?",
+      "opts": ["800ml", "900ml", "1000ml", "1100ml"],
+      "ans": 2
+    },
+    {
+      "q": "Jika SATU = 58, DUA = 36, maka TIGA = ?",
+      "opts": ["55", "56", "57", "58"],
+      "ans": 1
+    },
+    {
+      "q": "Semua M adalah N. Tidak ada N yang P. Maka...",
+      "opts": ["Semua M adalah P", "Tidak ada M yang P", "Sebagian M adalah P", "Semua P adalah M"],
+      "ans": 1
+    },
+    {
+      "q": "Angka berikutnya: 2, 6, 12, 20, 30, ...",
+      "opts": ["40", "42", "44", "46"],
+      "ans": 1
+    }
+  ]
+}

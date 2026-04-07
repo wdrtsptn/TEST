@@ -1,0 +1,30 @@
+{
+  "id": "cfit",
+  "title": "CFIT",
+  "sub": "Culture Fair Intelligence Test",
+  "icon": "🧠",
+  "color": "#ff2d55",
+  "dur": 600,
+  "qs": [
+    {
+      "q_img": "data/cfit/soal_1.jpg",
+      "opt_count": 6,
+      "ans": 1
+    },
+    {
+      "q_img": "data/cfit/soal_2.jpg",
+      "opt_count": 6,
+      "ans": 2
+    },
+    {
+      "q_img": "data/cfit/soal_3.jpg",
+      "opt_count": 6,
+      "ans": 1
+    },
+    {
+      "q_img": "data/cfit/soal_4.jpg",
+      "opt_count": 6,
+      "ans": 1
+    }
+  ]
+}
